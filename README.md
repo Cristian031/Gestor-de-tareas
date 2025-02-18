@@ -1,6 +1,6 @@
 Gestor de Tareas
 
-Este es un proyecto de Gestor de Tareas que permite a los usuarios agregar, editar, eliminar y marcar tareas como completadas. El backend está implementado con Java y Spring Boot, mientras que el frontend está desarrollado con React JS. La base de datos utilizada es H2, una base de datos ligera y fácil de usar, ideal para el desarrollo y pruebas.
+Este es un proyecto básico de un Gestor de Tareas que permite a los usuarios agregar, editar, eliminar y marcar tareas como completadas. El backend está implementado con Java y Spring Boot, mientras que el frontend está desarrollado con React JS. La base de datos utilizada es H2, una base de datos ligera y fácil de usar, ideal para el desarrollo y pruebas.
 Tecnologías utilizadas
 
     Backend:
