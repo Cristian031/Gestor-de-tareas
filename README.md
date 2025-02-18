@@ -1,8 +1,40 @@
-# React + Vite
+Gestor de Tareas
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este es un proyecto de Gestor de Tareas que permite a los usuarios agregar, editar, eliminar y marcar tareas como completadas. El backend está implementado con Java y Spring Boot, mientras que el frontend está desarrollado con React JS. La base de datos utilizada es H2, una base de datos ligera y fácil de usar, ideal para el desarrollo y pruebas.
+Tecnologías utilizadas
 
-Currently, two official plugins are available:
+    Backend:
+        Java
+        Spring Boot
+        Spring Data JPA
+        H2 Database
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+    Frontend:
+        React JS
+        Axios para la comunicación con el backend
+        CSS (para el estilo y diseño de la interfaz)
+
+Características del proyecto
+
+    Registro y gestión de tareas.
+    Capacidad para crear, editar y eliminar tareas.
+    Marcar tareas como completadas.
+    Diseño interactivo y sencillo.
+    Base de datos H2 integrada para almacenamiento de tareas.
+
+
+
+
+El servidor estará disponible en http://localhost:8080.
+
+El frontend estará disponible en http://localhost:5173.
+Contribuciones
+
+Si deseas contribuir a este proyecto, por favor sigue los siguientes pasos:
+
+    Haz un fork del repositorio.
+    Crea una nueva rama (git checkout -b feature/nueva-funcionalidad).
+    Realiza los cambios necesarios y haz un commit (git commit -am 'Agrega nueva funcionalidad').
+    Sube los cambios (git push origin feature/nueva-funcionalidad).
+    Crea un pull request.
+
