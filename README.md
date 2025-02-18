@@ -44,7 +44,10 @@ npm install
 
 npm start
 
-El frontend estará disponible en http://localhost:3000.
+El frontend estará disponible en http://localhost:5173.
+
+
+----------------
 Contribuciones
 
 Si deseas contribuir a este proyecto, por favor sigue los siguientes pasos:
