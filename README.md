@@ -22,12 +22,29 @@ Características del proyecto
     Diseño interactivo y sencillo.
     Base de datos H2 integrada para almacenamiento de tareas.
 
+Instalación
+Backend (Spring Boot):
 
+    Clona este repositorio.
+    Navega a la carpeta backend (si tienes una estructura separada).
+    Abre el proyecto en tu IDE favorito (como IntelliJ IDEA o Eclipse).
+    Ejecuta el servidor Spring Boot.
 
+./mvnw spring-boot:run
 
 El servidor estará disponible en http://localhost:8080.
+Frontend (React):
 
-El frontend estará disponible en http://localhost:5173.
+    Navega a la carpeta frontend.
+    Instala las dependencias del proyecto.
+
+npm install
+
+    Ejecuta el proyecto.
+
+npm start
+
+El frontend estará disponible en http://localhost:3000.
 Contribuciones
 
 Si deseas contribuir a este proyecto, por favor sigue los siguientes pasos:
@@ -37,4 +54,6 @@ Si deseas contribuir a este proyecto, por favor sigue los siguientes pasos:
     Realiza los cambios necesarios y haz un commit (git commit -am 'Agrega nueva funcionalidad').
     Sube los cambios (git push origin feature/nueva-funcionalidad).
     Crea un pull request.
+
+
 
